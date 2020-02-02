@@ -1,0 +1,10 @@
+.dataTables_wrapper .dataTables_filter {
+      float: right;
+      text-align: right;
+      visibility: hidden;
+    }
+
+
+
+  .toggle.ios, .toggle-on.ios, .toggle-off.ios { border-radius: 20px; }
+  .toggle.ios .toggle-handle { border-radius: 20px; }
